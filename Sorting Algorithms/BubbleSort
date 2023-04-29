@@ -1,4 +1,0 @@
-Bubble Sort Algorithm
-1. In Bubble sort algorithm we compare the first two elements of an array and swap them if required.
-2. If we want to sort the elements of array in ascending order and if the first element is greater than second then, we need to swap the elements.
-3. If the first element is smaller than second, we don’t need to swap the elements. This process go on until last and second last element is compared and swapped.
