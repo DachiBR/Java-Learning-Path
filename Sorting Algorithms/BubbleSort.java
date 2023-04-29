@@ -22,7 +22,7 @@ Array after fourth iteration         20  ->   40   ->   50   ->   60   ->   90
 
 public class BubbleSort {
     public static void main(String [] arguments) {
-        int arr[] = {5,1,4,2,8};
+        int arr[] = {50, 20, 60, 90, 40};
         int length = arr.length;
 
         for (int i=0; i<length;i++){
